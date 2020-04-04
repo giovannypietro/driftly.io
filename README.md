@@ -1,4 +1,4 @@
-## Welcome to Driftly.io
+# Welcome to Driftly.io
 
 The driftly project will focus on Kubernetes security visibility and configuration management.
 
